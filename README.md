@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Josh-Gearou-s-Instagram
+An Instagram like site using Ruby on Rails
+>>>>>>> 820ecf3c6e56225d310d18c3fb04e5244b7ab8b1
